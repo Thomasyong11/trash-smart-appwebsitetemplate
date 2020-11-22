@@ -1,0 +1,9 @@
+.App {
+  width: 100vw;
+  background-color: yellow;
+}
+
+* {
+  padding: 0px;
+  margin: 0px;
+}

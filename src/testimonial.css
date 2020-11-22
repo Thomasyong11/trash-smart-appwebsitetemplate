@@ -1,0 +1,35 @@
+.testimonial {
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+}
+
+@media screen and (max-width: 560px) {
+  .testimonial {
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+  }
+  /* .testimonial {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+  .active-carousel-item {
+    width: 100vw;
+  }
+  .carousel-indicators {
+    display: none;
+  }
+  .carousel-slide {
+    width: 0px;
+  }
+  .carousel-inner {
+    margin: 0px;
+    width: 100vw;
+  } */
+}

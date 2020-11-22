@@ -1,0 +1,39 @@
+img.d-block {
+  width: 100vw;
+  height: 500px;
+}
+
+/* @media screen and (max-width: 560px) {
+  .d-block {
+    width: 100vw;
+    height: 600px;
+  }
+  div.carousel-inner {
+    /* display: flex;
+    align-items: center; */
+/* width: 100vw;
+    height: 300[x];
+  }
+  a.carousel-control-next {
+    display: none;
+  }
+} */
+
+/* .carousel-control-next {
+    display: none;
+    width: 0px;
+  }
+  .carousel-inner {
+    width: 100vw;
+    height: 50%;
+  }
+  .carousel-indicators li {
+    display: none;
+  }
+  .carousel-caption {
+    padding-bottom: 35px;
+  }
+  .carousel-item {
+    width: 100%;
+  }
+} */
